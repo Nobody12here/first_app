@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artiist: MyString
+  description: MyText
+  price_low: 9.99
+  price_high: 9.99
+  event_date: 2023-04-10
+
+two:
+  artiist: MyString
+  description: MyText
+  price_low: 9.99
+  price_high: 9.99
+  event_date: 2023-04-10
